@@ -1,5 +1,7 @@
 #-*- coding: utf-8 -*-
 
+# 属于最简单的动态规划, 计算出从左上角到每一个格子的最短距离，知道计算到右下角的格子
+
 
 class Solution():
     def minPathSum(slef, grid):
